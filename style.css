@@ -4,7 +4,8 @@
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
-    width: 60%;
+    max-width: 700px;
+    width: 80%;
 }
 
 hr {
